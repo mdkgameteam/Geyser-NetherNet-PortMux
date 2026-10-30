@@ -1,10 +1,15 @@
 # Geyser-NetherNet-PortMux (MDKPortMux)
 
+[![Status: Beta](https://img.shields.io/badge/Status-Beta%20(Boredom%20Project%20xd)-yellow.svg)](#)
 [![Minecraft Bedrock](https://img.shields.io/badge/Minecraft%20Bedrock-1.21.60%2B%20(26.60)-green.svg)](https://geysermc.org)
 [![Minecraft Java](https://img.shields.io/badge/Minecraft%20Java-Paper%20%2F%20Purpur%20%2F%20Spigot-blue.svg)](https://papermc.io)
 [![Protocol](https://img.shields.io/badge/NetherNet-Built--in%20Signaling-orange.svg)](https://github.com/GeyserMC/Geyser)
 [![Dual Stack](https://img.shields.io/badge/Network-IPv4%20%26%20IPv6-purple.svg)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+> ⚠️ **Nota / Warning:** Este plugin está actualmente en **fase BETA**. Lo creamos en un rato libre porque estábamos aburridos y queríamos jugar con nuestros amigos usando el mismo puerto sin tener que bancarnos el rollo de NetherNet y las caídas de Warden xd. ¡Funciona de 10, pero úsalo bajo tu propio criterio y cualquier feedback o issue es bienvenido!
+> 
+> *(This plugin is currently in **BETA**. We coded it because we were bored and just wanted to play with friends using the same port without dealing with NetherNet / Warden issues xd. Works great, feedback and PRs are welcome!)*
 
 > **MDKPortMux** es un plugin ligero para **Paper / Purpur / Spigot** que permite utilizar **el mismo puerto** para Minecraft Java y Minecraft Bedrock con el nuevo protocolo **NetherNet (1.21.60+)**, de forma **100% autónoma, sin Warden ni intermediarios externos** y con soporte completo **Dual-Stack (IPv4 / IPv6)**.
 

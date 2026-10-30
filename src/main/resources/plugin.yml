@@ -1,0 +1,6 @@
+name: MDKPortMux
+version: 1.0.0
+main: xyz.mdkgameteam.portmux.MDKPortMuxPlugin
+api-version: '1.20'
+author: MDK Game Team
+description: Dual-Stack TCP Multiplexer for Minecraft Java and Bedrock NetherNet

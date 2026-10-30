@@ -5,7 +5,7 @@
 [![Minecraft Java](https://img.shields.io/badge/Minecraft%20Java-Paper%20%2F%20Purpur%20%2F%20Spigot-blue.svg)](https://papermc.io)
 [![Protocol](https://img.shields.io/badge/NetherNet-Built--in%20Signaling-orange.svg)](https://github.com/GeyserMC/Geyser)
 [![Dual Stack](https://img.shields.io/badge/Network-IPv4%20%26%20IPv6-purple.svg)](#)
-[![Donate: PayPal](https://img.shields.io/badge/Donate-PayPal-00457C.svg?logo=paypal&logoColor=white)](https://www.paypal.com/donate/?business=bendyydavid300%40outlook.com&no_recurring=0&item_name=Support+Geyser-NetherNet-PortMux&currency_code=USD)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20MDK-F16061.svg?logo=ko-fi&logoColor=white)](https://ko-fi.com/mdkgameteam)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 > ⚠️ **Nota / Warning:** Este plugin está actualmente en **fase BETA**. Lo creamos en un rato libre porque estábamos aburridos y queríamos jugar con nuestros amigos usando el mismo puerto sin tener que bancarnos el rollo de NetherNet y las caídas de Warden xd. ¡Funciona de 10, pero úsalo bajo tu propio criterio y cualquier feedback o issue es bienvenido!
@@ -112,13 +112,13 @@ jar -cvf MDKPortMux-1.0.0.jar -C bin .
 
 ## 💖 Apoyar el proyecto / Support
 
-Si este plugin te sirvió, te ahorró dolores de cabeza con NetherNet/Warden y te permitió jugar con tus amigos en el mismo puerto, ¡puedes apoyarnos con una donación para un café!
+Si este plugin te sirvió, te ahorró dolores de cabeza con NetherNet/Warden y te permitió jugar con tus amigos en el mismo puerto, ¡puedes apoyarnos invitándonos un café en **Ko-fi**!
 
-Cualquier aporte ayuda a seguir manteniendo el plugin, optimizándolo y actualizándolo para futuras versiones de Minecraft y Geyser.
+Cualquier aporte nos ayuda muchísimo a seguir manteniendo herramientas de código abierto, optimizando este plugin y produciendo nuevos eventos y series para la comunidad.
 
-[![Donate with PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?business=bendyydavid300%40outlook.com&no_recurring=0&item_name=Support+Geyser-NetherNet-PortMux&currency_code=USD)
+[![Support on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/mdkgameteam)
 
-* **Enlace directo de PayPal:** [Hacer una donación vía PayPal](https://www.paypal.com/donate/?business=bendyydavid300%40outlook.com&no_recurring=0&item_name=Support+Geyser-NetherNet-PortMux&currency_code=USD)
+* **Enlace directo:** [ko-fi.com/mdkgameteam](https://ko-fi.com/mdkgameteam)
 
 ---
 
